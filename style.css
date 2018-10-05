@@ -1,0 +1,38 @@
+body{
+	background: #FFF69A;
+	text-align: center;
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+
+h1{
+	color: #F7BF84;
+}
+
+h2{
+	font-weight: lighter;
+}
+
+img{
+	margin-top:5px;
+}
+
+.bio {
+	font-size: 24px
+
+}
+
+
+.avatar 	{
+width: 300px;
+}
+
+.network{
+	color: black;
+	text-decoration: none;
+	font-size: 24px;
+}
+
+.network:hover{
+color:#F7BF84;
+}
